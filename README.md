@@ -47,5 +47,4 @@ Check out my writing samples and prompt experiments in my repos.
 
 ✨ I’m committed, curious, and always learning. My goal is to grow into a versatile developer who can build impactful solutions and communicate them clearly. If you’re working on something exciting, let’s connect—I’d love to contribute and learn!
 
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: There's always a bug to fix
