@@ -26,9 +26,9 @@
 ---
 
 ### 📈 Current Goals
-- Build at least 10 portfolio projects  
-- Improve my problem-solving & algorithm skills  
-- Land remote internships or junior developer roles
+- Building at least 10 portfolio projects  
+- Improving my problem-solving & algorithm skills  
+- Landing remote internships or junior developer roles
 
 ---
 
