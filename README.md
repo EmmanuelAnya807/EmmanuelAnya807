@@ -25,6 +25,13 @@
 
 ---
 
+### 📈 Current Goals
+- Build at least 10 portfolio projects  
+- Improve my problem-solving & algorithm skills  
+- Land remote internships or junior developer roles
+
+---
+
 ## ✍️ Writing & Communication
 I enjoy breaking down complex technical concepts into simple, engaging content.  
 Check out my writing samples and prompt experiments in my repos.
