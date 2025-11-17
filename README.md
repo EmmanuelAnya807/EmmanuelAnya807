@@ -21,6 +21,14 @@
 ---
 
 ## 📌 Featured Projects
+
+  ### CS50 Credit Card Validator (Python)
+  Validates credit card numbers using Luhn’s Algorithm and identifies card types (VISA, AMEX, Mastercard).  
+  
+  🔗 [View on GitHub](https://github.com/EmmanuelAnya807/cs50-pset-credit)  
+  
+  **Skills demonstrated:** Python, algorithms, modular arithmetic, input validation, debugging, project documentation.
+
 *(More projects coming soon—stay tuned!)*
 
 ---
